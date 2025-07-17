@@ -205,7 +205,7 @@
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcode-badge.vercel.app/api/Vansh__Tyagi?theme=dark&extension=null)](https://leetcode.com/u/Vansh__Tyagi/)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Vansh__Tyagi&theme=dark)](https://leetcode.com/u/Vansh__Tyagi/)
 
 ### 🔥 **Current Progress**
 
