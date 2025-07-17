@@ -205,13 +205,28 @@
 
 <div align="center">
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Vansh__Tyagi&theme=dark)](https://leetcode.com/u/Vansh__Tyagi/)
+### 🏆 **LeetCode Profile: [Vansh__Tyagi](https://leetcode.com/u/Vansh__Tyagi/)**
 
-### 🔥 **Current Progress**
+<table>
+<tr>
+<td align="center" width="50%">
+<h3>🎯 <strong>Problems Solved</strong></h3>
+<h2 style="color: #2E8B57;">200+</h2>
+<p><em>Total Questions Completed</em></p>
+</td>
+<td align="center" width="50%">
+<h3>🔥 <strong>Current Streak</strong></h3>
+<h2 style="color: #FF6B35;">68 Days</h2>
+<p><em>Daily Coding Practice</em></p>
+</td>
+</tr>
+</table>
 
-🎯 **Total Questions Solved:** 200+ Problems  
-🔥 **Current Streak:** 68 Days and Counting!  
-📈 **Daily Practice:** Consistent Problem Solving  
+### � **Quick Stats**
+
+![LeetCode](https://img.shields.io/badge/LeetCode-Problems%20Solved-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Streak](https://img.shields.io/badge/Current%20Streak-68%20Days-orange?style=for-the-badge&logo=fire&logoColor=white)
+![Profile](https://img.shields.io/badge/Profile-Vansh__Tyagi-blue?style=for-the-badge&logo=leetcode&logoColor=white)
 
 </div>
 
