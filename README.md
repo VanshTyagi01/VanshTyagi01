@@ -16,9 +16,9 @@
 
 ## 🚀 About Me
 
-> Passionate **Machine Learning Engineer** and **Healthcare AI Developer** from Dehradun, India, dedicated to leveraging technology for improving healthcare accessibility and solving real-world problems through innovative AI solutions.
+> Passionate **Software Engineer** from Dehradun, India, dedicated to leveraging technology for improving healthcare accessibility and solving real-world problems through innovative AI solutions.
 
-- 🔬 **Currently working on:** Advanced Medical AI systems and Graph Algorithm Visualizations
+- 🔬 **Currently working on:** Advanced Medical AI systems 
 - 🌱 **Learning:** Deep Learning, MLOps, and Computer Vision
 - 💡 **Interests:** Healthcare AI, Medical Diagnosis Systems, Algorithm Design
 - 🎯 **Goal:** Making healthcare more accessible through AI-powered solutions
@@ -99,7 +99,7 @@
 - 🔍 **Vector Search** using Pinecone
 - 💬 **Interactive Chat Interface**
 - 📖 **Medical Literature** integration
-- ☁️ **AWS Deployment** with CI/CD
+
 
 *Technologies: Python, LangChain, Pinecone, Gemini API*
 
@@ -127,7 +127,6 @@
 - 👁️ **Computer Vision** for medical image analysis
 - 🤖 **AI Integration** for comprehensive diagnosis
 - 🔊 **Speech-to-Text** conversion
-- 📱 **Mobile-Friendly** interface
 
 *Technologies: Python, Speech Recognition, Computer Vision*
 
@@ -202,18 +201,45 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 LeetCode Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanshTyagi01&show_icons=true&theme=forest&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshTyagi01&layout=compact&langs_count=8&theme=forest"/>
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=VanshTyagi01&theme=forest)](https://leetcode.com/VanshTyagi01/)
+
+### 🔥 **Current Progress**
+
+🎯 **Total Questions Solved:** 200+ Problems  
+🔥 **Current Streak:** 68 Days and Counting!  
+📈 **Daily Practice:** Consistent Problem Solving  
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VanshTyagi01&theme=forest)](https://github.com/VanshTyagi01)
+### 💻 **Problem Solving Expertise**
+
+| **Category** | **Focus Areas** | **Strength** |
+|:---:|:---:|:---:|
+| 🌳 **Trees** | Binary Trees, BST, Traversals | ⭐⭐⭐⭐⭐ |
+| 📊 **Graphs** | DFS, BFS, Islands, MST | ⭐⭐⭐⭐⭐ |
+| 🔄 **Dynamic Programming** | Optimization Problems | ⭐⭐⭐⭐ |
+| 📚 **Data Structures** | Arrays, LinkedList, Stacks | ⭐⭐⭐⭐⭐ |
+| 🎯 **Algorithms** | Sorting, Searching, Greedy | ⭐⭐⭐⭐ |
+
+### 📋 **Languages Used**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshTyagi01&layout=compact&theme=forest&hide_border=true)
+
+</div>
+
+<div align="center">
+
+### 🚀 **Key Achievements**
+- 🧩 **Multi-Domain Problem Solver** - Trees, Graphs, DP
+- 🎯 **Algorithm Implementation** - DFS, BFS, Union-Find
+- 🏆 **Code Optimization** - Time & Space Complexity Focus
+- 💡 **Pattern Recognition** - Template-based Problem Solving
 
 </div>
 
@@ -223,11 +249,10 @@
 
 <div align="center">
 
-🎯 **10+ Projects** in Machine Learning & Healthcare AI  
-🌟 **Multiple Stars** on GitHub repositories  
+🎯 **5+ Projects** in Machine Learning & Healthcare AI   
 🔬 **Healthcare Focus** - Specialized in medical AI applications  
 💻 **Full-Stack Developer** - From ML models to web deployment  
-🚀 **Production Experience** - AWS, Heroku, Vercel deployments  
+🚀 **Production Experience** - Heroku, Vercel deployments  
 📚 **Algorithm Expert** - Strong foundation in data structures  
 
 </div>
@@ -253,7 +278,7 @@
 
 **⭐ If you find my work interesting, please consider giving my repositories a star!**
 
-**🤝 Always open to collaborating on healthcare AI projects and innovative solutions!**
+**🤝 Always open to collaborating projects and innovative solutions!**
 
 ---
 
