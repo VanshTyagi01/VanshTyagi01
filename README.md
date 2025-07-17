@@ -81,11 +81,13 @@
 #### 🔬 [CuraCheck - AI Medical Diagnosis](https://github.com/VanshTyagi01/CuraCheck)
 **Advanced Healthcare AI System**
 - 🤖 **AI-Powered Diagnosis** using K-Nearest Neighbors
-- � **132+ Symptoms** comprehensive analysis
+- 🔍 **132+ Symptoms** comprehensive analysis
 - 🎯 **40+ Diseases** accurate prediction
 - 🌐 **Full-Stack Web App** with Flask & Vanilla JS
 - ⚡ **Real-time Predictions** with confidence scoring
 - 🏥 **Production Ready** with multiple deployment options
+
+🚀 **[Live Demo](https://curacheck.onrender.com)** | 💻 **[Source Code](https://github.com/VanshTyagi01/CuraCheck)**
 
 *Technologies: Python, Flask, scikit-learn, HTML/CSS/JS*
 
