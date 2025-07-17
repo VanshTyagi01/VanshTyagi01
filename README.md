@@ -205,7 +205,7 @@
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Vansh__Tyagi&theme=forest)](https://leetcode.com/u/Vansh__Tyagi/)
+![LeetCode Stats](https://leetcode.card.workers.dev/Vansh__Tyagi?theme=forest&font=baloo&extension=activity)
 
 ### 🔥 **Current Progress**
 
