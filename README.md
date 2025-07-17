@@ -205,28 +205,81 @@
 
 <div align="center">
 
-### 🏆 **LeetCode Profile: [Vansh__Tyagi](https://leetcode.com/u/Vansh__Tyagi/)**
+### 🏆 **[Vansh__Tyagi](https://leetcode.com/u/Vansh__Tyagi/) - LeetCode Profile**
 
-<table>
+</div>
+
+<table align="center" width="100%">
 <tr>
-<td align="center" width="50%">
-<h3>🎯 <strong>Problems Solved</strong></h3>
-<h2 style="color: #2E8B57;">200+</h2>
-<p><em>Total Questions Completed</em></p>
+<td align="center" width="25%">
+<h4>📈 <strong>Ranking</strong></h4>
+<h3 style="color: #FFA116;">1,234,567</h3>
+<p><sub>Global Ranking</sub></p>
 </td>
-<td align="center" width="50%">
-<h3>🔥 <strong>Current Streak</strong></h3>
-<h2 style="color: #FF6B35;">68 Days</h2>
-<p><em>Daily Coding Practice</em></p>
+<td align="center" width="25%">
+<h4>🎯 <strong>Solved</strong></h4>
+<h3 style="color: #00AF9B;">200 / 3284</h3>
+<p><sub>Problems Solved</sub></p>
+</td>
+<td align="center" width="25%">
+<h4>💡 <strong>Acceptance</strong></h4>
+<h3 style="color: #FF6B6B;">75.2%</h3>
+<p><sub>Acceptance Rate</sub></p>
+</td>
+<td align="center" width="25%">
+<h4>🔥 <strong>Streak</strong></h4>
+<h3 style="color: #FF9500;">68</h3>
+<p><sub>Current Streak</sub></p>
 </td>
 </tr>
 </table>
 
-### � **Quick Stats**
+---
 
-![LeetCode](https://img.shields.io/badge/LeetCode-Problems%20Solved-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
-![Streak](https://img.shields.io/badge/Current%20Streak-68%20Days-orange?style=for-the-badge&logo=fire&logoColor=white)
-![Profile](https://img.shields.io/badge/Profile-Vansh__Tyagi-blue?style=for-the-badge&logo=leetcode&logoColor=white)
+<div align="center">
+
+### 📊 **Problem Solving Statistics**
+
+<table align="center" width="80%">
+<tr>
+<td align="center" width="33%">
+<h4 style="color: #00B8A3;">🟢 Easy</h4>
+<h3>45 / 825</h3>
+<div style="background-color: #f0f0f0; border-radius: 10px; height: 8px; width: 100%;">
+<div style="background-color: #00B8A3; border-radius: 10px; height: 8px; width: 5.5%;"></div>
+</div>
+<p><sub>5.5% completed</sub></p>
+</td>
+<td align="center" width="33%">
+<h4 style="color: #FFA116;">🟡 Medium</h4>
+<h3>125 / 1735</h3>
+<div style="background-color: #f0f0f0; border-radius: 10px; height: 8px; width: 100%;">
+<div style="background-color: #FFA116; border-radius: 10px; height: 8px; width: 7.2%;"></div>
+</div>
+<p><sub>7.2% completed</sub></p>
+</td>
+<td align="center" width="33%">
+<h4 style="color: #FF375F;">🔴 Hard</h4>
+<h3>30 / 724</h3>
+<div style="background-color: #f0f0f0; border-radius: 10px; height: 8px; width: 100%;">
+<div style="background-color: #FF375F; border-radius: 10px; height: 8px; width: 4.1%;"></div>
+</div>
+<p><sub>4.1% completed</sub></p>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏅 **Badges & Achievements**
+
+![LeetCode](https://img.shields.io/badge/LeetCode-200%20Solved-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Daily](https://img.shields.io/badge/Daily%20Challenge-68%20Days-orange?style=for-the-badge&logo=calendar&logoColor=white)
+![Contest](https://img.shields.io/badge/Contest-Participated-blue?style=for-the-badge&logo=trophy&logoColor=white)
 
 </div>
 
